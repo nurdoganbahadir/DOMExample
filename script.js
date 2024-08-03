@@ -46,10 +46,3 @@ const allParagraphTwo = document.querySelectorAll("p");
 //   allParagraphTwo[i].className = "mardatone";
 //   console.log(allParagraphTwo);
 // }
-
-//! Mini Proje
-//? Yılın rengi her 1 saniyede değişiyor
-// Tarih ve saat arka plan rengi saniyede bir değişiyor
-// Tamamlanan meydan okuma arka planı yeşil
-// Devam eden meydan okuma arka planı sarı
-// Yaklaşan meydan okumaların arka planı kırmızı
